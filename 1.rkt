@@ -49,3 +49,5 @@ distToOrigin
 (display "\nExercise 10\n")
 ;;--------------------------
 "Relax, eat, sleep, and then read ch 2!"
+
+(display "Goodbye, friend!")
